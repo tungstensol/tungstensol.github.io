@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a0c8ad7.chunk.css",
+    "main.js": "/static/js/main.d29549db.chunk.js",
+    "main.js.map": "/static/js/main.d29549db.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.4bc68df7.chunk.js": "/static/js/2.4bc68df7.chunk.js",
+    "static/js/2.4bc68df7.chunk.js.map": "/static/js/2.4bc68df7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.33d737ce3726b312e7e99cc2a128c9fc.js": "/precache-manifest.33d737ce3726b312e7e99cc2a128c9fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9a0c8ad7.chunk.css.map": "/static/css/main.9a0c8ad7.chunk.css.map",
+    "static/media/BlueCollar.jpeg": "/static/media/BlueCollar.bc135108.jpeg",
+    "static/media/IT.jpeg": "/static/media/IT.0d14ddce.jpeg",
+    "static/media/TempStaffing.jpeg": "/static/media/TempStaffing.53dcf6f5.jpeg",
+    "static/media/about.jpeg": "/static/media/about.97d1407f.jpeg",
+    "static/media/executive.jpeg": "/static/media/executive.41a02c12.jpeg",
+    "static/media/logo.jpeg": "/static/media/logo.f77847c8.jpeg"
+  }
+}
